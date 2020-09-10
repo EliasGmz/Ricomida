@@ -1,0 +1,61 @@
+body {
+    font-family: 'Cabin', 'Lobster';
+
+}
+
+.nav-logo{
+    font-family: 'Lobster', cursive; 
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.subtitulos {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+.links, .botones, .receta-masa, .preparacion-masa, .card-text, .boton-news {
+    font-weight: 400;
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+h1, .text-section, .card-title, .card-deck-title {
+    font-weight: 700;
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.foto-principal img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-item img {
+    width: 230px;
+    height: 170px;
+}
+
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.newsletter {
+    width: 100%;
+    height: 350px;
+}
+
+.newsletter span, .footer-title {
+    font-family: 'lobster', cursive;
+    font-weight: 400;
+
+}
+
+.columna-newsletter {
+    padding-top: 10em;
+    padding-bottom: 10em;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
